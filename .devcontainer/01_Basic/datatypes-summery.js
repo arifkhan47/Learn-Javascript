@@ -1,4 +1,4 @@
-there are 2 categories of datatypes 1. premetive    2. Non-premetive
+// there are 2 categories of datatypes 1. premetive    2. Non-premetive
 
 // premetive datatypes
 
