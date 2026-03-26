@@ -35,6 +35,9 @@ console.log(Math.floor(Math.random() * (max - min + 1) + min));      // formula 
 
 
 
+let price5 = 1234567.89;
+
+console.log(price5.toLocaleString('en-IN'));
 
 
 
