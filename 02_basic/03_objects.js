@@ -47,3 +47,17 @@ const obj4 = {...obj1, ...obj2}       // using spred operator also you can join 
 
 console.log(Object.keys(obj1));     // you can access the kyes of this object and this method returns array datatype
 console.log(Object.values(obj1));     // you can access the values of this object and this method returns array datatype
+
+
+
+const course ={
+    courseName: "Learn Javascript",
+    youtube : "Chai with Code"
+}
+
+course.youtube
+
+
+const {youtube} = course       // data destructuring
+
+console.log(youtube);
